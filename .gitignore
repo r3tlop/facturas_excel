@@ -1,0 +1,37 @@
+# Entornos virtuales
+.venv/
+.instller/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Datos privados
+archivos_excel/
+folios_facturas/
+registros/
+incorporaciones_facturas.json
+
+# Compilaciones
+build/
+dist/
+
+# Ejecutables y archivos de configuración de compilación
+*.exe
+*.spec
+
+# Excel
+*.xlsx
+*.xls
+*.xlsm
+
+# Logs y credenciales
+*.log
+.env
+.env.*
+secrets.json
+
+# Configuración local del editor
+.vscode/
