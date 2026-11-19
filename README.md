@@ -128,13 +128,9 @@ Abre una terminal y ejecuta:
 
 ```bash
 
-git clone URL\_DEL\_REPOSITORIO
+git clone https://github.com/r3tlop/facturas\_excel.git
 
 ```
-
-
-
-Sustituye `URL\_DEL\_REPOSITORIO` por la dirección real del repositorio de GitHub.
 
 
 
